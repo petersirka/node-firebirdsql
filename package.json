@@ -1,0 +1,16 @@
+{
+    "author": {
+        "name": "Peter \u0160irka"
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    },
+    "license": "MIT",
+    "main": "./index.js",
+    "name": "firebirdsql",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/petersirka/node-firebirdsql.git"
+    },
+    "version": "0.0.1"
+}
